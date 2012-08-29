@@ -19,7 +19,7 @@ $VERSION = "0.1";
 %IRSSI = (
           name        => 'bitlbee_mpdstatus',
           authors     => 'gnomeye',
-          contact     => 'antoniotauro@gmail.com',
+          contact     => 'gnomeye@gmail.com',
           license     => 'GPLv2',
           description => 'set your song as bitlbee status',
          );
@@ -128,7 +128,7 @@ sub help {
  bitlbee set mpd status 
 =========================
 
-by gnomeye (antoniotauro@gmail.com)
+by gnomeye (gnomeye@gmail.com)
 
 credits to mpd.pl irssi script from
 Erik Scharwaechter (diozaka@gmx.de)

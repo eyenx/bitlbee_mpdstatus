@@ -1,5 +1,5 @@
 # bitlbee set mpd status irssi perl script
-# by gnomeye <antoniotauro@gmail.com>
+# by gnomeye <gnomeye@gmail.com>
 # credits to Erik Scharwaechter <diozaka@gmx.de>
 #
 # CHANGELOG:                                                          
